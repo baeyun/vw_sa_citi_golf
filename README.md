@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500px" src="https://raw.githubusercontent.com/bukharim96/vw_sa_citi_golf/master/skins/black/preview.jpg">
+  <img height="500px" src="https://raw.githubusercontent.com/baeyun/vw_sa_citi_golf/master/skins/black/preview.jpg">
 </p>
 
 <h1 align="center">VOLKSWAGEN SA CITI GOLF</h1>
@@ -11,5 +11,5 @@
 # SPECS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bukharim96/vw_sa_citi_golf/master/specs.PNG">
+  <img src="https://raw.githubusercontent.com/baeyun/vw_sa_citi_golf/master/specs.PNG">
 </p>
